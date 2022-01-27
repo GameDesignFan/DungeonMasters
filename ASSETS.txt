@@ -1,0 +1,7 @@
+Content/Blue.png - created by pixelfrog-assets on Itch.IO (https://pixelfrog-assets.itch.io/pixel-adventure-1) licensed under Public Domain
+
+Content/Kaph/Kaph-Regular.ttf - Kaph font created by GGBot, released on Fontesk (https://fontesk.com/kaph-font/) under the Open Font License
+
+Content/b_5.png - created by cga-creative-game-assets, released on Itch.IO (https://cga-creative-game-assets.itch.io/gold-2d-mobile-ui-for-casual-game)
+
+Content/coin_anim_strip_6.png - created by o-lobster on Itch.IO (https://o-lobster.itch.io/platformmetroidvania-pixel-art-asset-pack)
