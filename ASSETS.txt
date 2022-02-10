@@ -2,6 +2,11 @@ Content/Blue.png - created by pixelfrog-assets on Itch.IO (https://pixelfrog-ass
 
 Content/Kaph/Kaph-Regular.ttf - Kaph font created by GGBot, released on Fontesk (https://fontesk.com/kaph-font/) under the Open Font License
 
-Content/b_5.png - created by cga-creative-game-assets, released on Itch.IO (https://cga-creative-game-assets.itch.io/gold-2d-mobile-ui-for-casual-game)
+Content/Dungeon.png - created by raou on Itch.IO (https://raou.itch.io/free-dungeon-mini-tileset) 
 
-Content/coin_anim_strip_6.png - created by o-lobster on Itch.IO (https://o-lobster.itch.io/platformmetroidvania-pixel-art-asset-pack)
+Content/King.png - created by superdark on Itch.IO (https://superdark.itch.io/16x16-free-npc-pack)
+
+The Screen Management system was created by Microsoft. The code was found from a port in GitHub (https://github.com/tomizechsterson/game-state-management-monogame).
+The link for the system it references does not work anymore. 
+
+Some of the collision code was designed by Nathan Bean (https://nathanhbean.com/) said to be under Public Domain.
